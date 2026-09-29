@@ -1,9 +1,9 @@
-   # Banco gerado ao rodar o bot
-   *.db
+# Banco gerado ao rodar o bot
+*.db
 
-   # Arquivos do Jupyter/Colab e do macOS
-   .ipynb_checkpoints/
-   .DS_Store
+# Arquivos do Jupyter/Colab e do macOS
+.ipynb_checkpoints/
+.DS_Store
 
-   # GIFs gerados pelo radar
-   *.gif
+# GIFs gerados pelo radar
+*.gif
